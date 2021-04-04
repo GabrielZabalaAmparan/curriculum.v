@@ -223,7 +223,7 @@ img{
   .home-image {
     position: fixed;
         width: 205px;
-        margin-top: 24.5em;
+        margin-top: 23em;
         margin-left: 2em;
 
   }
@@ -231,7 +231,7 @@ img{
 
 @media (max-width: 768px) {
 .home {
-    height: calc(90vh - 3rem);
+    height: calc(80vh - 3rem);
     row-gap: 1rem;
 }
 
