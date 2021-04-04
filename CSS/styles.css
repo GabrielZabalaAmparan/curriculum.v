@@ -229,14 +229,14 @@ img{
   }
 }
 
-@media (max-width: 768px) {
+/* @media (max-width: 768px) {
 .home {
     height: calc(80vh - 3rem);
     row-gap: 1rem;
 }
 
   }
-}
+} */
 
 
 /*BUTTONS*/
