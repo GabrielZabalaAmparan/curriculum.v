@@ -229,6 +229,15 @@ img{
   }
 }
 
+@media (max-width: 768px) {
+.home {
+    height: calc(90vh - 3rem);
+    row-gap: 1rem;
+}
+
+  }
+}
+
 
 /*BUTTONS*/
 .button{
